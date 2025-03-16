@@ -4,7 +4,7 @@
 
 ### 📌 Pinned Repositories:
 🔹 [My Portfolio](https://github.com/SandileGontsana/portfolio)  
-🔹 [Itemba Project]([https://github.com/yourusername/yourrepo](https://github.com/SandileGontsana/ithemba_eductional_department))  
+🔹 [Itemba Project](https://github.com/SandileGontsana/ithemba_eductional_department)
 🔹 [Mpuluzi Project](https://github.com/SandileGontsana/mpuluzi_project)  
 
 
