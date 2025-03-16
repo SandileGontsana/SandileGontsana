@@ -1,6 +1,6 @@
 ## Hi there, I'm sandile  👋😊
 # 💫 About Me:
--👨‍💻 Software Developer | Full-Stack Enthusiast<br><br>🎯 What I’m Currently Focused On<br>-🤖 AI development for personal coding assistance<br>-⚛️ Mastering React & React Native<br>-🌍 Exploring backend & API integrations<br>- 📫 How to reach me: sandilegontsana2@gmail.com<br>- ⚡ Fun fact: I specialized in Communications Networks at Uni but my first real job was for software dev.<br>-
+-👨‍💻 Software Developer | Full-Stack Enthusiast<br><br>🎯 What I’m Currently Focused On<br>-🤖 AI development for personal coding assistance<br>-⚛️ Mastering React & React Native<br>-🌍 Exploring backend & API integrations<br>- 📫 How to reach me: sandilegontsana2@gmail.com<br>- ⚡ Fun fact: I specialized in Communications Networks at Uni but my first real job was for software dev.<br>
 
 ### 📌 Pinned Repositories:
 🔹 [Vist My Portfolio](https://github.com/SandileGontsana/portfolio) 😁
