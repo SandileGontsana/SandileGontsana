@@ -11,7 +11,7 @@
 - 📫 How to reach me: sandilegontsana2@gmail.com
 - ⚡ Fun fact: I specialized in Communications Networks at Uni but my first real job was for software dev.
 
-![Sandile's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Sandile's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SandileGontsana&show_icons=true&theme=radical)
 
 ### 🛠 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
